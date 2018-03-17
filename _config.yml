@@ -1,0 +1,11 @@
+# basic options
+title: My jekyll blog
+author: Ian Harmon
+email: harmoniant@gmail.com
+description: An experiment in jekyll
+twitter_username: harmoniant
+github_username:  harmoniant
+
+# Build settings
+markdown: kramdown
+theme: minima
